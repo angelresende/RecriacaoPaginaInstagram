@@ -15,7 +15,8 @@
 
 ## 🚀 Sobre o projeto
 
-Desafio feito no Bootcamp de **everis FullStack Developer**, que consiste na recriação da página inicial do Instagram Utilizando somente HTML e CSS.
+Desafio feito no Bootcamp de **everis FullStack Developer**, que consiste na recriação da página inicial do Instagram.
+Utilizando somente HTML e CSS.
 
 ## 🛠️ Tecnologias Utilizadas
 
