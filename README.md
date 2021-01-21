@@ -1,5 +1,4 @@
-# RecriacaoPaginaInstragram
-Desafio de 
+# RecriacaoPaginaInstagram
 
 <h1 align="center">
 
